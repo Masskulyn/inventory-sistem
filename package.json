@@ -1,0 +1,24 @@
+{
+  "name": "inventory-sistem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "inventory-sistem": "bin/createNodejsApp.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Masskulyn/inventory-sistem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Masskulyn/inventory-sistem/issues"
+  },
+  "homepage": "https://github.com/Masskulyn/inventory-sistem#readme"
+}
