@@ -7,8 +7,14 @@
     "inventory-sistem": "bin/createNodejsApp.js"
   },
   "scripts": {
-    "start": "node src/createNodejsApp.js"
+    "start": "node src/index.js"
   },
+  "dependencies": {
+  "express": "^4.18.2",
+  "cors": "^2.8.5",
+  "dotenv": "^10.0.0"
+},
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Masskulyn/inventory-sistem.git"
